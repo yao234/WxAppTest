@@ -1,0 +1,15 @@
+<!--pages/Amuse/Amuse.wxml-->
+
+<view class="container">
+  <view class="topview">
+    <!-- <navigator>游戏</navigator>
+    <navigator>视频</navigator>
+    <navigator>日常</navigator>
+    <navigator>音乐</navigator>
+    <navigator>学习</navigator> -->
+  </view> 
+<!-- 主题内容 -->
+  <view>
+
+  </view>
+</view>

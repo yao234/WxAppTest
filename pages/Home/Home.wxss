@@ -1,0 +1,34 @@
+/* pages/Home/Home.wxss */
+input{
+ border-style: solid;
+ border-color: gray;
+ border-radius: 10px;
+ width: 74%;
+ 
+ 
+}
+
+button{
+  position: absolute;
+  right: 10rpx;
+  line-height: 47rpx;
+  top:0rpx;
+  border-radius: 20px;
+}
+
+image{
+  width:90%;
+  height:200rpx;
+  border-style:solid;
+  margin:10rpx;
+  
+}
+
+
+navigator{
+  display: inline-flex; 
+  text-align: center;
+  width: 16%;
+  color:white;
+  
+ }

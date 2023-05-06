@@ -1,0 +1,25 @@
+<!--pages/Home/Home.wxml-->
+<!-- 
+<text>pages/Home/Home.wxml</text> -->
+<view class="container">
+     <view class="topview">
+      <input type="text"/><button size="mini" >搜索</button>
+      <!-- <navigator>游戏</navigator>
+      <navigator>视频</navigator>
+      <navigator>日常</navigator>
+      <navigator>音乐</navigator>
+      <navigator>学习</navigator> -->
+     </view>
+     <!--  -->
+     <view class="context">
+        <!-- 展示具体内容 -->
+          <image src="/Images/app.png" mode="aspectFit"></image>
+          <image src="/Images/app.png" mode="aspectFit"></image>
+          <image src="/Images/app.png" mode="aspectFit"></image>
+          <image src="/Images/app.png" mode="aspectFit"></image>
+          <image src="/Images/app.png" mode="aspectFit"></image>
+          <image src="/Images/app.png" mode="aspectFit"></image>
+          <image src="/Images/app.png" mode="aspectFit"></image>
+     </view>
+</view>
+<!-- style="width:80rpx;font-size:21rpx;height:5" -->

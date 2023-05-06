@@ -1,0 +1,8 @@
+/* pages/Amuse/Amuse.wxss */
+ navigator{
+ display: inline-flex; 
+ text-align: center;
+ width: 16%;
+ color:white;
+ 
+}

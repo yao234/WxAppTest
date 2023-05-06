@@ -1,0 +1,15 @@
+<!--pages/Login/login.wxml-->
+<view class="">
+   <!-- 账号：<input type="text" id=""></input>
+   密码：<input type="password"></input>
+   <button type="primary">确认</button>
+   <view class="bottomBar">
+      <button type="primary" bindtap="onClick">主页</button>
+      <button type="default">圈子</button>
+      <button type="warn">ddd</button>
+      <button type="primary">我的</button>
+   </view> -->
+</view>
+ 
+
+ 
